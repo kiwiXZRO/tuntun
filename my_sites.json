@@ -1,0 +1,2595 @@
+{
+  "spider": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/jar_js/WvSpider.jar",
+  "sites": [
+    {
+      "key": "py_275听书",
+      "name": "275听书(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/275听书.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_30剧集网🍀TG @hshsjk9",
+      "name": "30剧集网🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/30剧集网🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_456电影网",
+      "name": "456电影网(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/456电影网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_4K影视",
+      "name": "4K影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/4K影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_58影视",
+      "name": "58影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/58影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_66大片网🍀TG @hshsjk9",
+      "name": "66大片网🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/66大片网🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_808影院",
+      "name": "808影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/808影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_818黑料网",
+      "name": "818黑料网(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/818黑料网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_8X8X",
+      "name": "8X8X(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/8X8X.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91Porn蝌蚪窝",
+      "name": "91Porn蝌蚪窝(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91Porn蝌蚪窝.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91porn",
+      "name": "91porn(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91porn.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91porna🔞",
+      "name": "91porna🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91porna🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91吃瓜中心",
+      "name": "91吃瓜中心(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91吃瓜中心.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91大赛",
+      "name": "91大赛(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91大赛.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91热爆🔞",
+      "name": "91热爆🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91热爆🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_91爆料",
+      "name": "91爆料(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/91爆料.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_ASMR吧🍀TG @hshsjk9",
+      "name": "ASMR吧🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/ASMR吧🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_ASMR听书🔞",
+      "name": "ASMR听书🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/ASMR听书🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_AVTOP10🔞",
+      "name": "AVTOP10🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/AVTOP10🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_AV星球🔞",
+      "name": "AV星球🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/AV星球🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_AdultpornaAV",
+      "name": "AdultpornaAV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/AdultpornaAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Auete影视🍀TG @hshsjk9",
+      "name": "Auete影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Auete影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_BadNews",
+      "name": "BadNews(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/BadNews.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Cam4直播",
+      "name": "Cam4直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Cam4直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_DJ呦呦",
+      "name": "DJ呦呦(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/DJ呦呦.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_EPORNER",
+      "name": "EPORNER(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/EPORNER.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_EcoHub影视🍀TG @hshsjk9",
+      "name": "EcoHub影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/EcoHub影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_FoFo影院🍀TG @hshsjk9",
+      "name": "FoFo影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/FoFo影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_FreeOK",
+      "name": "FreeOK(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/FreeOK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_FullHD",
+      "name": "FullHD(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/FullHD.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_GG51🔞",
+      "name": "GG51🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/GG51🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_HS日本4K动漫🔞",
+      "name": "HS日本4K动漫🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/HS日本4K动漫🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_JAV36",
+      "name": "JAV36(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/JAV36.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Jable",
+      "name": "Jable(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Jable.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_MiFun动漫",
+      "name": "MiFun动漫(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/MiFun动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_NaughtyMachinima动漫🔞",
+      "name": "NaughtyMachinima动漫🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/NaughtyMachinima动漫🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Pandalive直播",
+      "name": "Pandalive直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Pandalive直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_PigAV",
+      "name": "PigAV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/PigAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Pornhub",
+      "name": "Pornhub(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Pornhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_TOPTV",
+      "name": "TOPTV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/TOPTV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_TnAflix🔞",
+      "name": "TnAflix🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/TnAflix🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_UAA🔞",
+      "name": "UAA🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/UAA🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_VHUB[成人]",
+      "name": "VHUB[成人](Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/VHUB[成人].py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_VIP兔🍀TG @hshsjk9",
+      "name": "VIP兔🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/VIP兔🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_VS影院🍀TG @hshsjk9",
+      "name": "VS影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/VS影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_VV视频🔞",
+      "name": "VV视频🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/VV视频🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_Xvideos",
+      "name": "Xvideos(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/Xvideos.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_av3698🔞",
+      "name": "av3698🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/av3698🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_catemby",
+      "name": "catemby(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/catemby.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_fulleroticmovies🔞",
+      "name": "fulleroticmovies🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/fulleroticmovies🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_hanime1",
+      "name": "hanime1(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/hanime1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_kiss🔞",
+      "name": "kiss🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/kiss🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_lovekoala",
+      "name": "lovekoala(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/lovekoala.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_missav-app",
+      "name": "missav-app(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/missav-app.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_pmvhaven🔞",
+      "name": "pmvhaven🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/pmvhaven🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_pomo🍀TG @hshsjk9",
+      "name": "pomo🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/pomo🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_stripchat",
+      "name": "stripchat(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/stripchat.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_uaa有声",
+      "name": "uaa有声(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/uaa有声.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_vidhub🍀TG @hshsjk9",
+      "name": "vidhub🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/vidhub🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_xhamster",
+      "name": "xhamster(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/xhamster.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_一起影视🍀TG @hshsjk9",
+      "name": "一起影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/一起影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_一起草🔞",
+      "name": "一起草🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/一起草🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_七味",
+      "name": "七味(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/七味.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_七猫影视",
+      "name": "七猫影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/七猫影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_丝袜乐土🔞",
+      "name": "丝袜乐土🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/丝袜乐土🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_久久視頻",
+      "name": "久久視頻(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/久久視頻.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_五月天",
+      "name": "五月天(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/五月天.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_亚色影库",
+      "name": "亚色影库(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/亚色影库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_今日看料",
+      "name": "今日看料(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/今日看料.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_仙腾影院🍀TG @hshsjk9",
+      "name": "仙腾影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/仙腾影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_优视频",
+      "name": "优视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/优视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_优质粉嫩鲍🔞",
+      "name": "优质粉嫩鲍🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/优质粉嫩鲍🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_优酷视频",
+      "name": "优酷视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/优酷视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_低端影视",
+      "name": "低端影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/低端影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_兄弟影视",
+      "name": "兄弟影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/兄弟影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_兔岛影院🍀TG @hshsjk9",
+      "name": "兔岛影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/兔岛影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_八天电影",
+      "name": "八天电影(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/八天电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_八戒影视🍀TG @hshsjk9",
+      "name": "八戒影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/八戒影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_共和国动漫🍀TG @hshsjk9",
+      "name": "共和国动漫🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/共和国动漫🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_共青春影院",
+      "name": "共青春影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/共青春影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_农民影视",
+      "name": "农民影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/农民影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_初见影视",
+      "name": "初见影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/初见影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_刷不停短剧🍀TG @hshsjk9",
+      "name": "刷不停短剧🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/刷不停短剧🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_剧OK",
+      "name": "剧OK(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/剧OK.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_动漫啦",
+      "name": "动漫啦(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/动漫啦.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_动漫巴士",
+      "name": "动漫巴士(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/动漫巴士.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_努努影院",
+      "name": "努努影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/努努影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_千千影视",
+      "name": "千千影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/千千影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_千千音乐🍀TG @hshsjk9",
+      "name": "千千音乐🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/千千音乐🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_午夜福利羊壳版",
+      "name": "午夜福利羊壳版(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/午夜福利羊壳版.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_华数TV",
+      "name": "华数TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/华数TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_厂长影视",
+      "name": "厂长影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/厂长影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_厂长资源🍀TG @hshsjk9",
+      "name": "厂长资源🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/厂长资源🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_可可影视",
+      "name": "可可影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/可可影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_吉利猫",
+      "name": "吉利猫(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/吉利猫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_吞精兽",
+      "name": "吞精兽(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/吞精兽.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_听书网456🍀TG @hshsjk9",
+      "name": "听书网456🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/听书网456🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_咖啡直播",
+      "name": "咖啡直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/咖啡直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_哇哇APP",
+      "name": "哇哇APP(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/哇哇APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_哔哩直播",
+      "name": "哔哩直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/哔哩直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_善良的小姨子🔞",
+      "name": "善良的小姨子🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/善良的小姨子🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_喜福短剧",
+      "name": "喜福短剧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/喜福短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_嘀嗒影视",
+      "name": "嘀嗒影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/嘀嗒影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_四色🔞",
+      "name": "四色🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/四色🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_四虎视频",
+      "name": "四虎视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/四虎视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_多多影视🍀TG @hshsjk9",
+      "name": "多多影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/多多影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_多瑙影院",
+      "name": "多瑙影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/多瑙影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_大屌视频",
+      "name": "大屌视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/大屌视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_大象短剧🍀TG @hshsjk9",
+      "name": "大象短剧🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/大象短剧🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_大马猴🍀TG @hshsjk9",
+      "name": "大马猴🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/大马猴🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_大鸡吧🔞",
+      "name": "大鸡吧🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/大鸡吧🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_太乙影视",
+      "name": "太乙影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/太乙影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_奇优影院",
+      "name": "奇优影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/奇优影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_奇点影视",
+      "name": "奇点影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/奇点影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_奈非工厂",
+      "name": "奈非工厂(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/奈非工厂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_女优色库",
+      "name": "女优色库(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/女优色库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_奶糖视频🔞",
+      "name": "奶糖视频🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/奶糖视频🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_好剧屋",
+      "name": "好剧屋(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/好剧屋.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_好好看🍀TG @hshsjk9",
+      "name": "好好看🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/好好看🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_妈妈自拍",
+      "name": "妈妈自拍(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/妈妈自拍.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_妲己",
+      "name": "妲己(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/妲己.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_威视TV",
+      "name": "威视TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/威视TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_宅男影视🍀TG @hshsjk9",
+      "name": "宅男影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/宅男影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_寂寞阿姨🔞",
+      "name": "寂寞阿姨🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/寂寞阿姨🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_小心御欲🔞",
+      "name": "小心御欲🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/小心御欲🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_小鸭子看看",
+      "name": "小鸭子看看(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/小鸭子看看.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_山楂影视",
+      "name": "山楂影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/山楂影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_山水影视🍀TG @hshsjk9",
+      "name": "山水影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/山水影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_幸福加油站🔞",
+      "name": "幸福加油站🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/幸福加油站🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_影视大全",
+      "name": "影视大全(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/影视大全.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_影视大全🍀TG @hshsjk9",
+      "name": "影视大全🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/影视大全🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_怦然心动",
+      "name": "怦然心动(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/怦然心动.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_性运机场🔞",
+      "name": "性运机场🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/性运机场🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_悟圣短剧",
+      "name": "悟圣短剧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/悟圣短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_悟空传媒",
+      "name": "悟空传媒(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/悟空传媒.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_悟空影视",
+      "name": "悟空影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/悟空影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_悦听吧",
+      "name": "悦听吧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/悦听吧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_房中㊙️术🔞",
+      "name": "房中㊙️术🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/房中㊙️术🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_手鸡助手🔞",
+      "name": "手鸡助手🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/手鸡助手🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_推特涩涩",
+      "name": "推特涩涩(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/推特涩涩.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_搜剧AI🍀TG @hshsjk9",
+      "name": "搜剧AI🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/搜剧AI🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_撸一天",
+      "name": "撸一天(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/撸一天.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_撸王宝典🔞",
+      "name": "撸王宝典🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/撸王宝典🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_教授",
+      "name": "教授(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/教授.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_易听书网🍀TG @hshsjk9",
+      "name": "易听书网🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/易听书网🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_星梦Asmr🍀TG @hshsjk9",
+      "name": "星梦Asmr🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/星梦Asmr🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_星河影视",
+      "name": "星河影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/星河影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_星芽短剧",
+      "name": "星芽短剧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/星芽短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_星辰影院",
+      "name": "星辰影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/星辰影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_映像星球",
+      "name": "映像星球(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/映像星球.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_映刻短剧🍀TG @hshsjk9",
+      "name": "映刻短剧🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/映刻短剧🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_权色视频🔞",
+      "name": "权色视频🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/权色视频🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_枝枝影视",
+      "name": "枝枝影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/枝枝影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_枫叶4K",
+      "name": "枫叶4K(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/枫叶4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_枫叶影院🍀TG @hshsjk9",
+      "name": "枫叶影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/枫叶影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_枫叶音乐",
+      "name": "枫叶音乐(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/枫叶音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_柯南影视",
+      "name": "柯南影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/柯南影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_楓林網🍀TG @hshsjk9",
+      "name": "楓林網🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/楓林網🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_樱之空动漫🍀TG @hshsjk9",
+      "name": "樱之空动漫🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/樱之空动漫🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_樱花传媒",
+      "name": "樱花传媒(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/樱花传媒.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_樱花动漫🔞",
+      "name": "樱花动漫🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/樱花动漫🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_每日大乱斗",
+      "name": "每日大乱斗(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/每日大乱斗.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_每日大赛",
+      "name": "每日大赛(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/每日大赛.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_毒舌影视",
+      "name": "毒舌影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/毒舌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_永乐视频",
+      "name": "永乐视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/永乐视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_污漫天堂🔞",
+      "name": "污漫天堂🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/污漫天堂🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_河马剧场",
+      "name": "河马剧场(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/河马剧场.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_油管",
+      "name": "油管(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/油管.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_油管直播",
+      "name": "油管直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/油管直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_泡泡影院🍀TG @hshsjk9",
+      "name": "泡泡影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/泡泡影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_泥视频",
+      "name": "泥视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/泥视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_海角乱伦🔞",
+      "name": "海角乱伦🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/海角乱伦🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_海角情",
+      "name": "海角情(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/海角情.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_淫母原味🔞",
+      "name": "淫母原味🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/淫母原味🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_清纯人妻🔞",
+      "name": "清纯人妻🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/清纯人妻🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_热播APP",
+      "name": "热播APP(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/热播APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_熊猫直播",
+      "name": "熊猫直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/熊猫直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_熊猫视频",
+      "name": "熊猫视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/熊猫视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_爆片库",
+      "name": "爆片库(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/爆片库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_爆色🔞",
+      "name": "爆色🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/爆色🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_爱壹帆",
+      "name": "爱壹帆(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/爱壹帆.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_爱看机器人",
+      "name": "爱看机器人(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/爱看机器人.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_猫咪AV",
+      "name": "猫咪AV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/猫咪AV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_猫咪TV",
+      "name": "猫咪TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/猫咪TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_瓜子APP",
+      "name": "瓜子APP(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/瓜子APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_电影侠🍀TG @hshsjk9",
+      "name": "电影侠🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/电影侠🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_男同网",
+      "name": "男同网(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/男同网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_百合TV🔞",
+      "name": "百合TV🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/百合TV🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_百花影院🍀TG @hshsjk9",
+      "name": "百花影院🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/百花影院🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_皮皮虾",
+      "name": "皮皮虾(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/皮皮虾.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_看剧AI🍀TG @hshsjk9",
+      "name": "看剧AI🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/看剧AI🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_看戏影视🍀TG @hshsjk9",
+      "name": "看戏影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/看戏影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_真实人妻",
+      "name": "真实人妻(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/真实人妻.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_真实未流出🔞",
+      "name": "真实未流出🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/真实未流出🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_真狼影视",
+      "name": "真狼影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/真狼影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_短剧巴士",
+      "name": "短剧巴士(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/短剧巴士.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_短剧聚合",
+      "name": "短剧聚合(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/短剧聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_神秘电影",
+      "name": "神秘电影(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/神秘电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_神马影视",
+      "name": "神马影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/神马影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_禁片天堂",
+      "name": "禁片天堂(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/禁片天堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_福利天堂",
+      "name": "福利天堂(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/福利天堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_糯米短剧",
+      "name": "糯米短剧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/糯米短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_绅士漫画🔞",
+      "name": "绅士漫画🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/绅士漫画🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_网飞TV",
+      "name": "网飞TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/网飞TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_美剧天堂",
+      "name": "美剧天堂(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/美剧天堂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_聚合直播",
+      "name": "聚合直播(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/聚合直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_肉漫屋🔞",
+      "name": "肉漫屋🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/肉漫屋🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_肉视频🔞",
+      "name": "肉视频🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/肉视频🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_腾爱优芒B🍀TG @hshsjk9",
+      "name": "腾爱优芒B🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/腾爱优芒B🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_腾讯视频",
+      "name": "腾讯视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/腾讯视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_自动加载66",
+      "name": "自动加载66(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/自动加载66.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_色播聚合",
+      "name": "色播聚合(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/色播聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_艾旦影视🔞",
+      "name": "艾旦影视🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/艾旦影视🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_芒果TV",
+      "name": "芒果TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/芒果TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_花都影视🔞",
+      "name": "花都影视🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/花都影视🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_茶杯狐",
+      "name": "茶杯狐(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/茶杯狐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_草榴视频区",
+      "name": "草榴视频区(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/草榴视频区.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_草莓影视🍀TG @hshsjk9",
+      "name": "草莓影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/草莓影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_萝莉AV",
+      "name": "萝莉AV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/萝莉AV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_蛋挞TV",
+      "name": "蛋挞TV(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/蛋挞TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_蜜桃AV🔞",
+      "name": "蜜桃AV🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/蜜桃AV🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_蜜桃视频",
+      "name": "蜜桃视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/蜜桃视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_蝶卡影视",
+      "name": "蝶卡影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/蝶卡影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_袋鼠影视",
+      "name": "袋鼠影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/袋鼠影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_观风影视",
+      "name": "观风影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/观风影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_视觉影院",
+      "name": "视觉影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/视觉影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_豆花影视",
+      "name": "豆花影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/豆花影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_追光影视",
+      "name": "追光影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/追光影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_追影",
+      "name": "追影(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/追影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_酷我音乐",
+      "name": "酷我音乐(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/酷我音乐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_采集聚合",
+      "name": "采集聚合(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/采集聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_采集聚合成人",
+      "name": "采集聚合成人(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/采集聚合成人.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_金牌APP",
+      "name": "金牌APP(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/金牌APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_陌陌一夜情🔞",
+      "name": "陌陌一夜情🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/陌陌一夜情🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_青牛影视🍀TG @hshsjk9",
+      "name": "青牛影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/青牛影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_青空次元🍀TG @hshsjk9",
+      "name": "青空次元🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/青空次元🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_青蛙影视🍀TG @hshsjk9",
+      "name": "青蛙影视🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/青蛙影视🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_韩剧巴士🔞",
+      "name": "韩剧巴士🔞(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/韩剧巴士🔞.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_韩国色情电影",
+      "name": "韩国色情电影(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/韩国色情电影.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_韩小圈",
+      "name": "韩小圈(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/韩小圈.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_音乐聚合🍀TG @hshsjk9",
+      "name": "音乐聚合🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/音乐聚合🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_飞快TV🍀TG @hshsjk9",
+      "name": "飞快TV🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/飞快TV🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_飞流视频🍀TG @hshsjk9",
+      "name": "飞流视频🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/飞流视频🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_饭搭子影视",
+      "name": "饭搭子影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/饭搭子影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_香肠派对",
+      "name": "香肠派对(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/香肠派对.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_香蕉视频",
+      "name": "香蕉视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/香蕉视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_骚火影视",
+      "name": "骚火影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/骚火影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_高清点播🍀TG @hshsjk9",
+      "name": "高清点播🍀TG @hshsjk9(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/高清点播🍀TG @hshsjk9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_高端视频",
+      "name": "高端视频(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/高端视频.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_麒麟影视",
+      "name": "麒麟影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/麒麟影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_麦田影院",
+      "name": "麦田影院(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/麦田影院.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_麻花影视",
+      "name": "麻花影视(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/麻花影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_麻豆免费在线播放",
+      "name": "麻豆免费在线播放(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/麻豆免费在线播放.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_麻豆社",
+      "name": "麻豆社(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/麻豆社.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_黄色仓库",
+      "name": "黄色仓库(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/黄色仓库.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_黄色仓库动态版",
+      "name": "黄色仓库动态版(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/黄色仓库动态版.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_黄豆短剧",
+      "name": "黄豆短剧(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/黄豆短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_黑料不打烊",
+      "name": "黑料不打烊(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/黑料不打烊.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "py_黑料网",
+      "name": "黑料网(Py)",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kiwiXZRO/tuntun/main/py/黑料网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ]
+}
